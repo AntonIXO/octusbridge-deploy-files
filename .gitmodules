@@ -1,0 +1,9 @@
+[submodule "bridge"]
+	path = bridge
+	url = https://github.com/broxus/octusbridge-contracts.git
+[submodule "wever"]
+	path = wever
+	url = https://github.com/broxus/ton-wton.git
+[submodule "token"]
+	path = token
+	url = https://github.com/broxus/tip3.git
